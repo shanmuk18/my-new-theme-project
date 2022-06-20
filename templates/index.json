@@ -7,13 +7,13 @@
           "type": "heading",
           "settings": {
             "heading": "Image banner",
-            "heading_size": "h0"
+            "heading_size": "h4"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give  details about the banner image(s) or content on the template.",
+            "text": "details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
         },
